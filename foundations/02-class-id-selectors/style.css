@@ -1,6 +1,6 @@
 .odd-number {
     background-color: pink;
-    font-family: Verdana, Dejavu Sans, sans-serif;
+    font-family: Verdana, "Dejavu Sans", sans-serif;
 }
 
 #two {
@@ -8,12 +8,11 @@
     font-size: 36px;
 }
 
-#three {
+.change-font-size {
     font-size: 24px;
 }
 
 #four {
     background-color: green;
-    font-size: 24px;
     font-weight: bold;
 }
